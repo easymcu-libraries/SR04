@@ -1,4 +1,4 @@
-# sr04-Ultrasonic
+# SR04 
 > #### Easy to use sr04 ultrasonic library for EasyMCU
 
 

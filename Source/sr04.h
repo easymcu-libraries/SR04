@@ -12,13 +12,7 @@
 	#ifndef __SR04_H__
 	#define __SR04_H__ 
 	
-	#include "fio.h"
-	#include "timer.h"
-	#include "delay.h"
-	
-	extern FIO io;
-	extern TIMER timer;
-	extern DELAY delay;
+	#include "common_func.h"
 	
 	class SR04
 	{
